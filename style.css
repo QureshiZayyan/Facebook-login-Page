@@ -86,3 +86,10 @@ ul {
 li {
     margin: 0 15px;
 }
+
+.font {
+    color: red;
+    text-align: left;
+    font-size: 0.99rem;
+    margin: 0 10px;
+}
