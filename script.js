@@ -1,4 +1,5 @@
 
+console.log('welcome to facebook');
 let password = document.querySelector('#password');
 let btn = document.querySelector('.btn');
 let error = document.querySelector('.error');
