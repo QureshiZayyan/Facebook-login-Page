@@ -82,5 +82,5 @@ const click = () => {
         }
     })
 }
-Keyup()
-clickyuKeyup()
+Keyup();
+click();
